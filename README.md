@@ -1,3 +1,5 @@
-# algorithmics-github-basic
+# algorithmics-github-basics
+
 ## judul ke-2
-*Repository untuk belajar basic Git di GitHub*
+
+_Repository untuk belajar basic Git di GitHub_
